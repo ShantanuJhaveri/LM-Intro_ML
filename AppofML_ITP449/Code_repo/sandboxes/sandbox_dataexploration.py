@@ -8,5 +8,10 @@ data = {'ReleaseYear': [2009, 2019, 2015, 2013, 2005],
 
 df = pd.DataFrame(data)
 pd.set_option('display.max_columns', None)
-df['Ones'] = 1
+# df['Ones'] = 1
+# df['IsOld'] = df['ReleaseYear'] < 2015
+
+
+
+
 print(df)
