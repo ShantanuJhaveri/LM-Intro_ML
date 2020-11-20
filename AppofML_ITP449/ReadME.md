@@ -7,4 +7,6 @@ There are two folders. One is a documents repo and another is a code repo. Both 
 #### Document Repo 
 The documents contain things like lectures, lecture notes, hw documents, and misc documentation.
 #### Code Repo
-The code in here range from what I actually did on my HW submisions, my sandboxes, datasets I was playing around with, and even the build environment. Each hw#\_files_ folder contains each question seperately (as to the teachers orders). The code starts rudamentary with basic to more advanced python knowledge from assignments 1-4 (although I did try to through some spicy data structures into it) but then moves on to be more ML oriented in folders 5-8> I will try to include learning outcomes and outputs in readme files attached to each folder
+The code in here range from what I actually did on my HW submisions, my sandboxes, datasets I was playing around with, and even the build environment. Each hw#\_files_ folder contains each question seperately (as to the teachers orders). The code starts rudamentary with basic to more advanced python knowledge from assignments 1-4 (although I did try to through some spicy data structures into it) but then moves on to be more ML oriented in folders 5-8. I will try to include learning outcomes and outputs in readme files attached to each folder
+## Python Interpreter
+
