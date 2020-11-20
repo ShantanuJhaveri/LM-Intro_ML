@@ -9,4 +9,21 @@ The documents contain things like lectures, lecture notes, hw documents, and mis
 #### Code Repo
 The code in here range from what I actually did on my HW submisions, my sandboxes, datasets I was playing around with, and even the build environment. Each hw#\_files_ folder contains each question seperately (as to the teachers orders). The code starts rudamentary with basic to more advanced python knowledge from assignments 1-4 (although I did try to through some spicy data structures into it) but then moves on to be more ML oriented in folders 5-8. I will try to include learning outcomes and outputs in readme files attached to each folder
 ## Python Interpreter
-
+- **DateTime** 4.3
+- **Pillow** 7.2.0
+- certifi 2020.11.8
+- cycler 0.10.0
+- joblib 0.17.0
+- kiwisolver 1.3.1
+- **matplotlib** 3.3.3
+- **numpy** 1.19.4
+- **pandas** 1.1.4
+- pip 20.2.4
+- pydataset 0.2.0
+- pyparsing 2.4.7
+- python-dateutil 2.8.1
+- pytz 2020.4
+- **scikit-learn** 0.23.2
+- scipy 1.5.4
+- **seaborn** 0.11.0
+- **yellowbrick** 1.2
