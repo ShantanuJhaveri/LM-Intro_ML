@@ -1,7 +1,7 @@
 # Applications of Machine Course Scripts and Material :blue_book: <br>
   This folder is for the USC Course Applications of Machine Learning (ITP449-Senior_Data_Analytics). Its purpose is to prove profiency in the class past just a grade, but also as a resource to come back to in case I forget some syntax<br>
   ## Learning Outcomes :globe_with_meridians:
-  This course focused on profiency in **APPLYING MACHINE LEARNING ALGORITHMS**. It was very syntax and statistically oriented, focusing efforts in teaching what models are most appropriate and how to score whether the model worked well. Machine Learning algorithms include Decision Trees, KNN, Regression, Clustering K-means, and SVMs
+  This course focused on profiency in **APPLYING MACHINE LEARNING ALGORITHMS**. It was very syntax and statistically oriented, focusing efforts in teaching what models are most appropriate and how to score whether the model worked well. Machine Learning algorithms include **Decision Trees, KNN, Regression, Clustering K-means, and SVMs**
   ## Contents :package:
 There are two folders. One is a documents repo and another is a code repo. Both are as described in their titled but more specifically:
 #### Document Repo 
