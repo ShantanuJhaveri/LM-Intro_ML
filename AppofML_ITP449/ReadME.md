@@ -11,19 +11,20 @@ The code in here range from what I actually did on my HW submisions, my sandboxe
 ## Python Interpreter
 - **DateTime** 4.3
 - **Pillow** 7.2.0
-- certifi 2020.11.8
-- cycler 0.10.0
-- joblib 0.17.0
-- kiwisolver 1.3.1
 - **matplotlib** 3.3.3
 - **numpy** 1.19.4
+- **yellowbrick** 1.2
+- **seaborn** 0.11.0
+- **scikit-learn** 0.23.2
 - **pandas** 1.1.4
 - pip 20.2.4
+
 - pydataset 0.2.0
 - pyparsing 2.4.7
 - python-dateutil 2.8.1
 - pytz 2020.4
-- **scikit-learn** 0.23.2
 - scipy 1.5.4
-- **seaborn** 0.11.0
-- **yellowbrick** 1.2
+- kiwisolver 1.3.1
+- joblib 0.17.0
+- cycler 0.10.0
+- certifi 2020.11.8
