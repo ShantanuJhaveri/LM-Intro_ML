@@ -1,7 +1,0 @@
-import pandas as pd
-
-pd.set_option('display.max_columns', None)
-boston = pd.read_csv('/Users/shantanujhaveri/Desktop/work-git/GitHub/Learning-Modules_introML/AppofML_ITP449'
-                     '/Code_repo/sandboxes/sandbox-data/BostonHousing.csv')
-print(boston.head())
-print(boston.describe())
