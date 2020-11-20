@@ -8,3 +8,5 @@ This Repository is broken up into curriculm and courses. This includes certifica
 - Introduction to Machine Learning (CSCI 467)
 - Introduction to Artificial Intellegence (CSCI 360)
 - Artificial Intellegence for Design Applications (ACAD 499)
+## Background 
+Previous python basics and basic knowledge can be found in [this repo](https://github.com/ShantanuJhaveri/LM-Python_Basics)
