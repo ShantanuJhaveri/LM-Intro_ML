@@ -12,7 +12,7 @@ from sklearn.cluster import KMeans
 # PART 1/2 IMPORT DATA AND DROP WINE
 pd.set_option('display.max_columns', None)
 df = pd.read_csv('/Users/shantanujhaveri/Desktop/work-git/GitHub/Learning-Modules_introML/AppofML_ITP449/Code_repo'
-                 '/sandboxes/sandbox-data/wineQualityReds.csv')
+                 '/hw7_files/wineQualityReds.csv')
 df_winecluster = df[['Wine', 'quality']]
 df = df.drop(columns=['Wine'])
 
