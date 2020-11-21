@@ -7,8 +7,9 @@ import pandas as pd
 import seaborn as sb
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import confusion_matrix
+from sklearn.linear_model import LogisticRegression
+from sklearn import metrics
+
 
 # PART 1: READ DATASET ----------------------------
 pd.set_option('display.max_columns', None)
