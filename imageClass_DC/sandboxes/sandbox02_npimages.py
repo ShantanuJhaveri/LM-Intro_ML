@@ -1,4 +1,3 @@
-from skimage import color
 from skimage import data
 import matplotlib.pyplot as plt
 import numpy as np
