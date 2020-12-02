@@ -23,12 +23,14 @@ show_image(binary, 'Threshold Image')
 # local or adaptive: best for uneven background illumination
 
 from skimage.filters import try_all_threshold
+
 plt.figure(1)
 ax = try_all_threshold(image, verbose=False)
 plt.show()
 
 # Global Thresh
 from skimage.filters import threshold_otsu
+
 thresh = threshold_otsu(image)
 binary_global = image > thresh
 
@@ -38,7 +40,7 @@ show_image(binary_global, 'Global Thresholding')
 # Local Thresh
 from skimage.filters import threshold_local
 
-block_size = 35  #local neighborhood for the threshold
+block_size = 35  # local neighborhood for the threshold
 local_thresh = threshold_local(image, block_size, offset=10)
 binary_local = image > local_thresh
 
