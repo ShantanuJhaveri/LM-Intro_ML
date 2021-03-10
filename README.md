@@ -8,5 +8,8 @@ This Repository is broken up into curriculm and courses. This includes certifica
 - Introduction to Machine Learning (CSCI 467)
 - Introduction to Artificial Intellegence (CSCI 360)
 - Artificial Intellegence for Design Applications (ACAD 499)
+## Material I made :package:
+Having done all of these courses and certifications, I also spent time building curriculum and projects that I thought help me learn. Attached below are the repos to some of the projects I use to teach.
+- [(MNIST dataset CNN app with input)](https://github.com/ShantanuJhaveri/MNIST-CNNapp)
 ## Background 
 Previous python basics and basic knowledge can be found in [this repo](https://github.com/ShantanuJhaveri/LM-Python_Basics)
