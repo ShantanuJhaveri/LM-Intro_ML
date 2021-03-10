@@ -10,7 +10,8 @@ This Repository is broken up into curriculm and courses. This includes certifica
 - Artificial Intellegence for Design Applications (ACAD 499)
 ## Material I made :package:
 Having done all of these courses and certifications, I also spent time building curriculum and projects that I thought help me learn. Attached below are the repos to some of the projects I use to teach.
-- [CNN From Scratch using MNIST](https://github.com/ShantanuJhaveri/T-MNIST_CNNapp)
+- [CNN From Scratch using MNIST](https://github.com/ShantanuJhaveri/T-CNN_scratch)
 - [MNIST Dataset CNN App with Input](https://github.com/ShantanuJhaveri/T-MNIST_CNNapp)
+- [CNN FaceMask detector](https://github.com/ShantanuJhaveri/T-MNIST_CNNapp)
 ## Background 
 Previous python basics and basic knowledge can be found in [this repo](https://github.com/ShantanuJhaveri/LM-Python_Basics)
